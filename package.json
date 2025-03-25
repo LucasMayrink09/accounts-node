@@ -1,0 +1,13 @@
+{
+  "name": "accounts-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^12.5.0"
+  }
+}
