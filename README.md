@@ -1,6 +1,6 @@
 🏦 Simulador de Conta Bancária
 
-Bem-vindo ao Accounts! Um simples simulador de conta bancária criado com Node.js, utilizando as bibliotecas Inquirer e Chalk. 🚀
+Bem-vindo ao Accounts! Um simples simulador de conta bancária criado com Node.js, utilizando as bibliotecas Inquirer, Chalk e FS para manipulação de arquivos. 🚀
 
 📌 Funcionalidades
 
@@ -36,6 +36,8 @@ Node.js 🟢
 Inquirer.js 📝
 
 Chalk 🎨
+
+FS (File System) 📂
 
 📸 Exemplo de Uso
 
